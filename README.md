@@ -6,7 +6,7 @@ Do fail a couple of times before one is able to create a boilerplate sitefinity 
 Adding Sitefinity nuget packages can take an ave of 12 minutes and still will build fine 
 after failing to add 1 or 2 dependencies because of timeout issues. 
 
-The official website lists how to set this up. 
+The official website explains how to set this up. 
 
 https://www.progress.com/documentation/sitefinity-cms/install-sitefinity#configure-sitefinity-nuget-repository
 
