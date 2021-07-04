@@ -18,6 +18,11 @@ One needs to have SSMS and SQL Server 2019 Instance/EXPRESS installed.
 Also encountered DB related permission errors here as well. Mixed mode 
 authentication allows the use of either Windows or SQL Server credentials. 
 
+If one encounters an error on SSMS while trying to provide permissions to sysadmin 
+role in DB to a Login user account after logging with SQL Server credentials, then 
+disconnect/log out and re-login/re-connect with Windows credentials and provide
+persmissions
+
 On the localhost Sitefinity site one can test with both Windows & Sql server 
 authentication, only if mixed mode authentication is enabled on SQL Server 2019 
 Instance/Express. 
