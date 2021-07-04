@@ -28,6 +28,7 @@ authentication, only if mixed mode authentication is enabled on SQL Server 2019
 Instance/Express. 
 
 
+
 There is a one month trial version license for developers you will need and the link below 
 will explain how to get it from their official site -
 
