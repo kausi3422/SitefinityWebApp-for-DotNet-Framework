@@ -2,9 +2,9 @@
 
 boilerplate Sitefinity CMS app
 
-Do fail a couple of times before one is able to create a new boilerplate sifefinity app. 
-Adding Sinifnity nuget packages can take an ave of 12 minutes and  still will build fine 
-after failing to add 1 or 2 dependencies on timeout. I guess this is ok. 
+Do fail a couple of times before one is able to create a new boilerplate sitefinity app. 
+Adding Sitefinity nuget packages can take an ave of 12 minutes and still will build fine 
+after failing to add 1 or 2 dependencies because of timeout issues. 
 
 The official website lists how to set this up. 
 
