@@ -10,9 +10,9 @@ The official website lists how to set this up.
 
 https://www.progress.com/documentation/sitefinity-cms/install-sitefinity#configure-sitefinity-nuget-repository
 
-If you encounter an error during setup you could also delete the package folder, 
-clear Nuget packages and the re-add the Sitefinity Nuget packages if one is to 
-encounter a version mismatch error between asp.net and sitefinity.dlls.
+If you encounter an error during setup you could also delete the package folder 
+contents, clear Nuget packages and the re-add the Sitefinity Nuget packages if 
+one is to encounter a version mismatch error between asp.net and sitefinity dlls.
 
 One needs to have SSMS and SQL Server 2019 Instance/EXPRESS installed. 
 Also encountered DB related permission errors here as well. Mixed mode 
