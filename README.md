@@ -14,6 +14,8 @@ If you encounter an error during setup you could also delete the package folder
 contents, clear Nuget packages and the re-add the Sitefinity Nuget packages if 
 one is to encounter a version mismatch error between asp.net and sitefinity dlls.
 
+https://www.progress.com/documentation/sitefinity-cms/problem-unable-to-resolve-dependencies-of-nuget-packages
+
 One needs to have SSMS and SQL Server 2019 Instance/EXPRESS installed. 
 Also encountered DB related permission errors here as well. Mixed mode 
 authentication allows the use of either Windows or SQL Server credentials. 
@@ -28,10 +30,14 @@ authentication, only if mixed mode authentication is enabled on SQL Server 2019
 Instance/Express. 
 
 
-
 There is a one month trial version license for developers you will need and the link below 
 will explain how to get it from their official site -
 
 https://knowledgebase.progress.com/articles/Article/Download-Sitefinity-license 
+
+
+A DotNet Core, 5 or 6 Sitefinity App would be current and ideal.
+
+
 
 
